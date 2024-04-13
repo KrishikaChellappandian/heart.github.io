@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Human Heart Anatomy and Physiology</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            text-align: left; /* Align text to left */
+        }
+
+        h1 {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-size: 24px;
+            margin-bottom: 15px;
+        }
+
+        h3 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        ul {
+            margin-bottom: 15px;
+            padding-left: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+
+        footer p {
+            margin: 0;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Human Heart Anatomy and Physiology</h1>
+    </header>
+
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>The heart is a muscular organ that is situated in the front of the chest. It pumps blood all through the body in a process called circulation. Apart from the heart, the blood vessels and blood as a unit constitute the cardiovascular system.</p>
+        </section>
+
+        <section id="position">
+            <h2>Position of Heart in Human Body</h2>
+            <p>The human heart is located between the lungs in the thoracic cavity, slightly towards the left of the sternum (breastbone). It is derived from the embryonic mesodermal germ layer.</p>
+        </section>
+
+        <section id="function">
+            <h2>Function of Heart</h2>
+            <p>The function of the heart in any organism is to maintain a constant flow of blood throughout the body. This replenishes oxygen and circulates nutrients among the cells and tissues.</p>
+        </section>
+
+        <!-- Other sections omitted for brevity -->
+
+    </main>
+
+    <footer>
+        
+    </footer>
+
+</body>
+
+</html>
+
+
+
+
+
